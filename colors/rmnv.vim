@@ -1,6 +1,6 @@
 hi clear
 syntax reset
-let g:colors_name = "simple-light"
+let g:colors_name = "rmnv"
 if &background == "light"
     hi Boolean gui=NONE guifg=#000080 guibg=NONE
     hi ColorColumn gui=NONE guifg=NONE guibg=#f5f5f5
